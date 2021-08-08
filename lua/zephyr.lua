@@ -54,7 +54,7 @@ function zephyr.terminal_color()
   vim.g.terminal_color_4 = zephyr.blue
   vim.g.terminal_color_5 = zephyr.violet
   vim.g.terminal_color_6 = zephyr.cyan
-  vim.g.terminal_color_7 = zephyr.bg1
+  vim.g.terminal_color_7 = zephyr.base7
   vim.g.terminal_color_8 = zephyr.brown
   vim.g.terminal_color_9 = zephyr.red
   vim.g.terminal_color_10 = zephyr.green
